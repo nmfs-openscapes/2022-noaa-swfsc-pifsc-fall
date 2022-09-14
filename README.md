@@ -1,4 +1,4 @@
-<a align="left" href="https://github.com/Openscapes/2022-noaa-swfsc-pifsc-fall/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
+<a align="left" href="https://github.com/nmfs-openscapes/2022-noaa-swfsc-pifsc-fall/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
 # 2022 NOAA SwFSC PIFSC Openscapes Champions Cohort (Fall)
 
