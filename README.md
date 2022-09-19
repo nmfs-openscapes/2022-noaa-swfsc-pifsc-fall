@@ -11,7 +11,7 @@ Welcome to the 2022 NOAA SEFSC Fall Openscapes Champions Cohort! This is a Cohor
 We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Tuesdays starting October 4, 2022:
 
 - **Dates: October 4, 18, November 1, 15, 29** 
-- **Times: 1:00pm - 2:30am PT**
+- **Times: 1:00 - 2:30pm PT**
 - **Location: Remotely, via Zoom**
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1eXQ0j9MxYJNIwzYux0I6eH0mqIFPhRp9); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
