@@ -1,6 +1,6 @@
 <a align="left" href="https://github.com/nmfs-openscapes/2022-noaa-swfsc-pifsc-fall/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
-# 2022 NOAA SwFSC PIFSC Openscapes Champions Cohort (Fall)
+# 2022 NOAA SWFSC PIFSC Openscapes Champions Cohort (Fall)
 
 Welcome to the 2022 NOAA SEFSC Fall Openscapes Champions Cohort! This is a Cohort for the National Oceanic and Atmospheric Administration's Southwest and Pacific Islands Fisheries Science Centers. Learn more about Openscapes and NOAA Fisheries: <https://openscapes.org>, <https://nmfs-openscapes.github.io>
 
