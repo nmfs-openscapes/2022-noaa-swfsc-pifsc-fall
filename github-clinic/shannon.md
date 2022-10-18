@@ -32,7 +32,9 @@ Using [Dall-E](https://www.craiyon.com/) to make:
 
 C:\Users\shannon.rankin\Documents
 BANANA TAMALE CAKE
-[Check It Out](C:\Users\shannon.rankin\Documents\bananatamalecake.jpg)
+
+![bananatamalecake](https://user-images.githubusercontent.com/59101864/196541529-2538b125-4576-4a72-9951-3d6d3d8c663e.jpg)
+
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
