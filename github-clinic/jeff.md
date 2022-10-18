@@ -24,8 +24,8 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
-1. bananas
-2. tamales
+**1. bananas**
+*2. tamales*
 3. cakes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
@@ -41,4 +41,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes.
+
+
