@@ -20,6 +20,19 @@ This file is written in Markdown, which formats text on the web. For example, wi
 
 We can make words **bold** or *italic*.
 
+## Section 1
+
+*Test* and **test**
+
+This is a list:
+1. item 1
+2. item 2
+3. item 3
+
+### Subsection 1.1
+
+This is a [potato](https://en.wikipedia.org/wiki/Potato).
+
 ### We can make headers.
 
 We can make lists – *note that lists need a carriage return before list items!*
