@@ -19,6 +19,7 @@ Now let's practice Markdown and commit another edit to this file.
 This file is written in Markdown, which formats text on the web. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+Hey - this is **bold** and this is *italic* and this one is ***both!!!!!***
 
 ### We can make headers.
 
@@ -27,6 +28,7 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. pizza
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
