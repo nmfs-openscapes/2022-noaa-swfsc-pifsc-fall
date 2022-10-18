@@ -43,9 +43,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-1. Italy
-2. Spain
+1. *Italy*
+2. **Spain**
 3. New Zealand
 
 [Travel Destinations](https://www.forbes.com/sites/laurabegleybloom/2019/09/04/bucket-list-travel-the-top-50-places-in-the-world/?sh=6aedb02120cf) 
 >Forbes Top 50 Bucket List Travel Destinations
+
+[GitHub Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) tips
