@@ -42,3 +42,18 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+I am going to make a little list of fish I have recently caught:
+
+1. yellowtail
+2. bluefin tuna
+3. dorado
+4. calico bass
+5. barracuda
+6. ocean whitefish
+
+And then I'm going to say how much I enjoyed catching them with an indented
+
+>A whole heck of a lot!
+
+
